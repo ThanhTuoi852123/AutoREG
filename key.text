@@ -15,6 +15,7 @@ Server
 Market
 GetModel
 WorkHistory
+BypassCookie
 SendMessage
 UploadTshirt
 WearTshirt
